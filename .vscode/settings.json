@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2a130577-fd97-4cc8-a640-5d09f3b88adb/resourceGroups/IvanBeljanParcijalni-res/providers/Microsoft.Web/sites/IvanBeljanParcijalni",
+    "appService.deploySubpath": ""
+}
